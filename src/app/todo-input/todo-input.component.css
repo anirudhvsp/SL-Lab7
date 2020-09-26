@@ -1,0 +1,15 @@
+div{
+    width: 50%;
+    margin-left:25%;
+    margin-top:5%;
+}
+input{
+    height: 45px;
+    font-size: 1em;
+    line-height: 45px;
+    border: 2px solid #ccc;
+    width: 100%;
+    outline: none;
+    background: #fff;
+    color: #a2a5a7;
+}
